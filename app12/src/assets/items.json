@@ -1,0 +1,22 @@
+[
+    {
+        "name":"lace",
+        "description": "This is a picture of a fancy handmade lace.",
+        "src": "../lace.jpg"
+    },
+    {
+        "name":"mirror",
+        "description": "This is a pictue of a cat looking into a mirror.",
+        "src": "../mirror.jpg"
+    },
+    {
+        "name":"paper",
+        "description": "This is a picture of some toilet paper barely holding on...",
+        "src": "../paper.jpg"
+    },
+    {
+        "name":"plate",
+        "description": "This is a picture of a sad plate.",
+        "src": "../plate.jpg"
+    }
+]
